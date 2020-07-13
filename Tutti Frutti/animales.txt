@@ -1,0 +1,968 @@
+Ayu
+Alce
+Anoa
+Anón
+Arao
+Asno
+Atún
+Azor
+Abeja
+Addax
+Aguja
+Agutí
+Alosa
+Ameba
+Añuje
+Araña
+Abulón
+Acedía
+Acocil
+Aguará
+Ahulla
+Almeja
+Alpaca
+Anchoa
+Anolis
+Apereá
+Armiño
+Asitis
+Avispa
+Ayeaye
+Abadejo
+Acentor
+Acranio
+Actinia
+Ajolote
+Alacrán
+Alburno
+Almiqui
+Alondra
+Ampelis
+Anfioxo
+Anguila
+Arapapá
+Ardilla
+Arenque
+Avefría
+Avetoro
+Avispón
+Avoceta
+Axolote
+Abejorro
+Abubilla
+Agujones
+Albatros
+Alcatraz
+Alcaudón
+Alcéfalo
+Alimoche
+Alzacola
+Anaconda
+Angelote
+Antílope
+Araguato
+Arapaima
+Avestruz
+Avutarda
+Alcaraván
+Alpabarda
+Archibebe
+Argonauta
+Armadillo
+Arrendajo
+Agachadiza
+Alca común
+Acuchí Rojo
+Aguila Mora
+Aguila Real
+Agutí Negro
+Aguará Guazú
+Aguaré Guasú
+Aguila Cafre
+Aguila Calva
+Aguila Parda
+Agujon Comun
+Agujon Sable
+Albatro Gris
+Albatro Real
+Alcaudón Pío
+Ardilla Roja
+Ave Elefante
+Abeja Europea
+Acentor Común
+Acentor Pardo
+Aguila Caudal
+Aguila Harpia
+Aguila Moñuda
+Aguja Corbata
+Alcaudón Real
+Arenque Común
+Abeja Japonesa
+Abeja Melífera
+Acedia Ocelada
+Acentor Alpino
+Acentor Mongol
+Aguila Calzada
+Aguila Chilena
+Agutí de Azara
+Albatro Oscuro
+Alcatraz Común
+Alcatraz Pardo
+Alcaudón Chico
+Alcaudón Chino
+Alcaudón Común
+Alcaudón Pardo
+Alcaudón Tigre
+Aligátor chino
+Anchoa Europea
+Anémona de mar
+Antilope Negro
+Antilope Sable
+Abeja Doméstica
+Abejaruco Común
+Acentor Japonés
+Agateador Común
+Aguila Aliancha
+Aguila Colorada
+Aguila Coronada
+Aguila Crestada
+Aguila de Azara
+Aguila de Haast
+Aguila Escudada
+Aguila Filipina
+Aguila Imperial
+Aguila Kapulera
+Aguilucho Chico
+Aguilucho Negro
+Aguilucho Pampa
+Agutí Brasileño
+Agutí de Cresta
+Agutí de Roatán
+Albatro Errante
+Albatro Tiznado
+Albatro Viajero
+Alcaudón Fiscal
+Alcaudón Isabel
+Alcaudón Núbico
+Alcaudón Schach
+Alcaudón Somalí
+Acentor de Radde
+Aguila Americana
+Aguila Perdicera
+Aguila Solitaria
+Aguililla Canela
+Alacrán Colorado
+Albatro Ondulado
+Alcatraz Camanay
+Alcatraz Piquero
+Alcaudón Birmano
+Alcaudón de Emin
+Alcaudón Norteño
+Avetorillo común
+Abejaruco Europeo
+Acentor del Yemen
+Acentor Petirrojo
+Acentor Siberiano
+Agateador Europeo
+Agateador Moteado
+Agateador Nepalés
+Agateador Norteño
+Agateador Sichuán
+Aguila Cuaresmera
+Aguililla Calzada
+Albatro de Buller
+Albatro de Laysan
+Albatro de Salvin
+Alcatraz de Nazca
+Alcatraz Patiazul
+Alcaudón Bucefalo
+Alcaudón de Souza
+Alcaudón Filipino
+Alcaudón Tibetano
+Acentor Gorginegro
+Acentor Inmaculado
+Acentor Pechirrufo
+Aguila Azor Blanca
+Aguila de Verreaux
+Alacrán de Durango
+Alacrán de Morelos
+Alacrán de Nayarit
+Albatro de Chatham
+Albatro de Steller
+Albatro de Tristán
+Alcatraz Atlántico
+Alcatraz de Abbott
+Alcatraz Patirrojo
+Alcaudón Americano
+Alcaudón Colilargo
+Alcaudón del Tíbet
+Alcaudón Dorsigris
+Aligátor americano
+Asno Salvaje Nubio
+Abejorro Carpintero
+Abulón de Pourtales
+Acocil de Pátzcuaro
+Agateador Americano
+Aguila Real Ibérica
+Aguililla de Harris
+Agutí de Kalinowski
+Albatro de Campbell
+Alcaudón Culiblanco
+Alcaudón Dorsirrojo
+Asno Salvaje Somalí
+Acentor del Himalaya
+Agateador de Hodgson
+Agateador de Manipur
+Agateador Gorjipardo
+Aguila Copetona Real
+Aguila Crestuda Real
+Aguilucho Langostero
+Albatro Chlororrinco
+Albatro de Amsterdam
+Albatro de Pico Fino
+Alcatraz Australiano
+Alcatraz Enmascarado
+Alcaudón Piquigualdo
+Aguila Azor Perdicera
+Aguila Negra Africana
+Aguililla Australiana
+Aguilucho Alas Largas
+Agutí Centroamericano
+Albatro de Ceja Negra
+Albatro de Cola Corta
+Alcaudón Coroniblanco
+Alcaudón de los Taita
+Alcaudón de Mackinnon
+Alcaudón Dorsicastaño
+Arenque del Atlántico
+Agateador del Himalaya
+Agateador Euroasiático
+Aguila Azor Encopetada
+Aguila de Pecho Blanco
+Aguila Monera Filipina
+Albatro de Cabeza Gris
+Alcaudón de Santo Tomé
+Aguila de Cabeza Blanca
+Aguila Imperial Ibérica
+Agutí de Caderas Negras
+Albatro de Patas Negras
+Aguila Culebrera Europea
+Aguila Imperial Oriental
+Albatro de Corona Blanca
+Albatro de Frente Blanca
+Albatro de las Antípodas
+Albatro de las Galápagos
+Abejorro Carpintero Europeo
+Aguila Harpia de Nueva Guinea
+Boa
+Boto
+Buco
+Buey
+Búho
+Baiji
+Beira
+Bongo
+Brema
+Burro
+Babosa
+Becada
+Beluga
+Besugo
+Bonito
+Bonobo
+Boyero
+Buitre
+Búfalo
+Babuino
+Ballena
+Banteng
+Bisbita
+Bisonte
+Blesbok
+Bocarte
+Borochi
+Babirusa
+Berrendo
+Bontebok
+Boquerón
+Bandicoot
+Barasinga
+Barracuda
+Bogavante
+Búho Real
+Bermejuela
+Blanquillo
+Búho Chico
+Barranqueros
+Búho Cornudo
+Bacalao Común
+Bisbita Común
+Buteo albigula
+Búho Americano
+Basilisco común
+Bisonte Europeo
+Búfalo Acuatico
+Bisbita Pratense
+Busardo Colorado
+Busardo Ratonero
+Busardo Sabanero
+Bisbita Campestre
+Bisonte Americano
+Busardo de Harris
+Bacalao de Noruega
+Busardo Euroasiático
+Bacalao del Atlántico
+Busardo de Cola Corta
+Busardo Negro Norteño
+Busardo de Hombros Rojos
+Cuy
+Cebú
+Cebra
+Cerdo
+Choto
+Cisne
+Coatí
+Cobra
+Coipo
+Coipú
+Coquí
+Coral
+Corzo
+Caribú
+Castor
+Cálaos
+Chacal
+Chorlo
+Ciervo
+Cigala
+Cobaya
+Cocuyo
+Coendú
+Conejo
+Cotuza
+Coyote
+Cóndor
+Cuervo
+Caballa
+Caballo
+Cacatúa
+Calamar
+Calamón
+Camello
+Canario
+Canguro
+Caracal
+Caracol
+Carraca
+Cecilia
+Chinche
+Chochín
+Cigüeña
+Colibrí
+Corneja
+Corsito
+Cotorra
+Culebra
+Camaleón
+Cangrejo
+Capibara
+Caracara
+Casuario
+Centollo
+Chacalin
+Ciempiés
+Cigarrón
+Corégono
+Cormorán
+Cachalote
+Carbonero
+Celacanto
+Chimpancé
+Comadreja
+Corydoras
+Cucaracha
+Chinchilla
+Cobo Lichi
+Cochinilla
+Coral Rojo
+Cyematidae
+Caimán Brac
+Carpa Común
+Cebra Común
+Chotacabras
+Cortecerito
+Cabra Montés
+Caimán Menor
+Cobo de Agua
+Carpa Europea
+Chacal dorado
+Chacal Rayado
+Clamidosaurio
+Cóndor Andino
+Castor europeo
+Cebra de Grévy
+Cefalocordados
+Ciervo Europeo
+Codorniz Común
+Calamar gigante
+Curruca Mirlona
+Caballito de mar
+Caballo monchino
+Cocodrilo cubano
+Cocodrilo marino
+Correlimos gordo
+Curruca Gavilana
+Caimán del Brasil
+Cangrejo ermitaño
+Ciervo Canadiense
+Caimán de anteojos
+Caimán del Orinoco
+Cocodrilo del Nilo
+Caimán del Paraguay
+Conejillo de Indias
+Cóndor de los Andes
+Chacal de Lomo Negro
+Caimán de hocico ancho
+Ciervo del Padre David
+Dodo
+Damán
+Danta
+Dhole
+Dingo
+Delfín
+Desmán
+Dik-dik
+Dugongo
+Dinosaurio
+Dinosaurio
+Dromedario
+Diablo espinoso
+Dragón de Komodo
+Diablo de Tasmania
+Emú
+Esponja
+Eglefino
+Elefante
+Escuerzo
+Escorpión
+Estornino
+Escarabajo
+Eland Comun
+Erizo común
+Erizo de mar
+Escorpión Azul
+Espatula Comun
+Escorpión Común
+Estrella de Mar
+Elefante Africano
+Equidna (zoología)
+Escorpión Amarillo
+Escorpión de Nayarit
+Escorpión de Cola Gorda
+Escorpión de Uñas Grandes
+Escorpión Dorado de Israel
+Elefante Africano de Sabana
+Foca
+Faisán
+Facocero
+Flamenco
+Facóquero
+Foca monje
+Faisán egipcio
+Frailecillo Común
+Frailecillo Atlántico
+Gaur
+Guya
+Gallo
+Gamba
+Ganso
+Garza
+Gecko
+Guama
+Guará
+Gacela
+Gamuza
+Gineta
+Glotón
+Gorila
+Grillo
+Grulla
+Guatin
+Gallina
+Gavilán
+Gaviota
+Gorgojo
+Gorrión
+Guamara
+Guanaco
+Guatuza
+Galápago
+Gorgonia
+Guácharo
+Guepardo
+Gallipato
+Garrapata
+Guacamayo
+Guajolote
+Gamo Común
+Golondrina
+Gato Montés
+Gamo Europeo
+Gato Salvaje
+Gato Jaspeado
+Gato pescador
+Gavilán Mixto
+Garcilla China
+Garcilla Hindú
+Garcilla India
+Gato de Borneo
+Gato de Pallas
+Gallina Pedresa
+Gato Almizclero
+Gato de Bengala
+Gato Manglatero
+Gavilán Bultero
+Guardabarrancos
+Guatín Amarillo
+Garcilla Bueyera
+Garcilla Peinada
+Garza Capirotada
+Gato de Geoffroy
+Gavilán Aliancho
+Gavilán Sabanero
+Gaviota Argéntea
+Gavión Atlántico
+Gran Gato Andino
+Guaqueque Alazan
+Garcilla Malgache
+Gavilán Acanelado
+Gavilán Colirrojo
+Gavilán de Copete
+Gavilán Rabicorto
+Garcilla Indonesia
+Gato de las arenas
+Gavilán Alicastaño
+Gavilán Coliblanco
+Gavilán Langostero
+Gavilán Rabiblanco
+Garcilla Cangrejera
+Gato de pies negros
+Gavilán de Swainson
+Gallito de las Rocas
+Garcilla Ventrirroja
+Gato de cabeza plana
+Gato dorado africano
+Gato dorado asiatico
+Gaviota Patiamarilla
+Gato de los pajonales
+Gato del desierto chino
+Garcilla de Vientre Rojo
+Gato Montés Euroasiático
+Gato Montés Sudamericano
+Gavilán Cangrejero Negro
+Gavilán Cangrejero Grande
+Gavilán de Garganta Blanca
+Gato Montés de Norteamerica
+Gavilán Cangrejero Colorado
+Gorila Occidental de Llanura
+Haro
+Hiena
+Hurón
+Halcón
+Hombre
+Huemul
+Humano
+Hamster
+Hormiga
+Hornero
+Hipocampo
+Holoturia
+Hipopotamo
+Harpagornis
+Hormiga león
+Hiena Moteada
+Hiena Manchada
+Halcón de Harris
+Halcón Peregrino
+Hipopótamo Pigmeo
+Ibis
+Ibice
+Iguana
+Impala
+Iguana Verde
+Insecto palo
+Jerbo
+Jochi
+Jabalí
+Jabirú
+Jaguar
+Jineta
+Jirafa
+Jaguarundí
+Jochi Colorado
+Jabalí Verrugoso
+Kiwi
+Kudu
+Koala
+Krill
+Kakapo
+Kaguang
+León
+Lobo
+Loro
+Lémur
+Lince
+Llama
+Lanzón
+Laucha
+Licaón
+Lubina
+Lechuza
+Lemming
+Lombriz
+Luétiga
+Leopardo
+Libélula
+Lagartija
+Langostino
+Lince Rojo
+Luciérnaga
+Lenguadillo
+León marino
+Lince Común
+Lobo marino
+Lagarto ágil
+Lechua Común
+Leptocardios
+Liebre común
+Lince Boreal
+Lobina Negra
+Lobo de Crin
+Lobo Pintado
+Lubina Negra
+Lince Europeo
+Lobo Colorado
+Lucio Europeo
+Lenguado Comun
+Langosta de Rio
+Langosta europea
+Lenguado de Arena
+Lince Eurasiático
+Langosta (insecto)
+Langosta americana
+Lobo de los Esteros
+Langosta (crustáceo)
+Leopardo de las nieves
+Lechuza de los Campanarios
+Lémur Volador de Filipinas
+Mono
+Mula
+Mamut
+Marta
+Mirlo
+Morsa
+Mosca
+Manati
+Marabú
+Margay
+Marica
+Medusa
+Mofeta
+Mandril
+Mapache
+Marmota
+Marsopa
+Milpiés
+Momotos
+Mulgara
+Macarela
+Mangosta
+Mariposa
+Mejillón
+Mosquito
+Marabunta
+Murciélago
+Mona Rabona
+Muflón Común
+Marao Machete
+Macaco japones
+Mapache Boreal
+Mapache Racuna
+Muflón Europeo
+Martín Pescador
+Mantis religiosa
+Mono de Berbería
+Mona de Gibraltar
+Macaco de Gibraltar
+Moscardón Cazador de Abejas
+Nufan
+Narval
+Navaja
+Nécora
+Nutria
+Nauyaca
+Necturo
+Novillo
+Oca
+Oso
+Orca
+Oryx
+Okapi
+Ostra
+Oveja
+Ofiura
+Ocelote
+Orangután
+Oso Negro
+Oso Panda
+Oso Pardo
+Oso Polar
+Oricteropo
+Oso Blanco
+Oso Damián
+Oso de Agua
+Ornitorrinco
+Orejas de Mar
+Oso Hormiguero
+Oropéndola Europea
+Oso Negro Americano
+Pato
+Pavo
+Pita
+Poni
+Puma
+Perca
+Perro
+Peuco
+Piojo
+Pitón
+Pollo
+Pulga
+Pulpo
+Paloma
+Perdiz
+Perico
+Picure
+Pihuel
+Pinzón
+Pantera
+Pez ado
+Polilla
+Pangolín
+Papagayo
+Pecaries
+Pelicano
+Perezoso
+Peripato
+Pez león
+Pez loro
+Pingüino
+Pavorreal
+Periquito
+Petirrojo
+Pez Angel
+Pez mamut
+Picapinos
+Pez espada
+Pez payaso
+Pez Lanceta
+Pez volador
+Picapuercos
+Piquituerto
+Puercoespín
+Papión Oliva
+Pavo ocelado
+Pez Pelicano
+Pulga de mar
+Panda Gigante
+Perro de Agua
+Pipa americana
+Playero Artico
+Playero Rojizo
+Pajaros Carnero
+Perca Americana
+Picure Negruzco
+Pigargo Europeo
+Pigargo Gigante
+Pantera nebulosa
+Papión de Anubis
+Petirrojo Europeo
+Pigargo Americano
+Pececillo de plata
+Pigargo de Steller
+Petirrojo Americano
+Piquero Enmascarado
+Pigargo Cabeciblanco
+Pez pulmonado austral
+Perezoso de tres dedos
+Pez pulmonado africano
+Procesionaria del pino
+Perrito de las Praderas
+Piquero de Patas Azules
+Pigargo de Cabeza Blanca
+Pantera Nebulosa de Borneo
+Picure del Delta del Orinoco
+Quetzal
+Quirquincho
+Quebrantahuesos
+Rana
+Rata
+Raya
+Reno
+Ratón
+Rebeco
+Rémora
+Róbalo
+Ratites
+Ruiseñor
+Renacuajo
+Rodaballo
+Ratón Común
+Rinoceronte
+Ratón Casero
+Rubia gallega
+Ratonero Común
+Ratón Domestico
+Rata Topo Desnuda
+Rata Topo Lampiña
+Rinoceronte Negro
+Reyezuelo Sencillo
+Rinoceronte Blanco
+Ratón de Laboratorio
+Rana Africana de Uñas
+Ratonero de Colo Roja
+Rinoceronte de Labio Ganchudo
+Sapo
+Sahuí
+Sepia
+Salmón
+Saltón
+Sarrio
+Sauria
+Serete
+Surubí
+Sardina
+Suricata
+Serpiente
+Salamandra
+Salmón rey
+Saltamontes
+Sanguijuela
+Salamanquesa
+Sapo partero
+Sirena enana
+Sirena mayor
+Sirena menor
+Seudoescorpión
+Sauro Atlántico
+Serete Mexicano
+Salamandra china
+Salamandra tigre
+Salamandra gigante
+Salamandra moteada
+Salamandra viscosa
+Salamandra anillada
+Salamandra de cueva
+Salamandra ensatina
+Salamandra rabilarga
+Salamandra siberiana
+Salamandra de Fischer
+Salamandra de Jackson
+Salamandra de Luschan
+Salamandra de Paghman
+Salamandra de Sichuan
+Salamandra vietnamita
+Salamandra de Dybowski
+Salamandra de Tennesse
+Salamandra de manantial
+Salamandra china gigante
+Salamandra Tigre del Este
+Salamandra de cuatro dedos
+Salamandra de espalda roja
+Salamandra de los Apeninos
+Salamandra de los torrentes
+Salamandra americana gigante
+Salamandra de manchas azules
+Salamandra oscura septentrional
+Salamandra gigante de California
+Teyú
+Topo
+Toro
+Tapir
+Tejón
+Tenia
+Tigre
+Tucán
+Turón
+Tanuki
+Tábano
+Tenrec
+Tritón
+Trucha
+Tunqui
+Termita
+Tiburón
+Tortuga
+Tigrillo
+Tijereta
+Triguero
+Tarántula
+Tijerilla
+Tortuga boba
+Tortuga verde
+Tritón crestado
+Tortuga de Texas
+Tritón de bandas
+Trepadorcito Café
+Tritón de Guizhou
+Trepador Americano
+Tritón de Luristán
+Tritón Shau Tau Kok
+Tritón de California
+Topo de nariz estrellada
+Tritón de vientre de fuego
+Trepador de Garganta Castaña
+Tritón americano de lunares rojos
+Uapiti
+Urraca
+Urogallo
+Urubitinga
+Vaca
+Varano
+Venado
+Vicuña
+Víbora
+Vencejo
+Verdugo
+Verderón
+Vinchuca
+Vaca Watusi
+Viuda negra
+Vaca Tudanca
+Vaca Monchina
+Weta
+Walabí
+Walaró
+Wapití
+Wombat
+Wallaby
+Wallaby de Bennet
+Xarda
+Xenopus
+Xoloescuintle
+Yak
+Yegua
+Yacare
+Yarará
+Yaguareté
+Zorro
+Zamuro
+Zancudo
+Zorrino
+Zopilote
+Zorrillo
+Zarigüeya
+Zorro Rojo
+Zorro Común
+Zerete Prieto
+Zorra Manglera

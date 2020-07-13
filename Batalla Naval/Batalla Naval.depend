@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1528467733 source:/home/usuario/Escritorio/Batalla Naval/main.c
+	<stdio.h>
+	<stdlib.h>
+	"a.h"
+
+1528460249 /home/usuario/Escritorio/Batalla Naval/a.h
+
+1529471368 source:d:\poli\taller de programacion\batalla naval\main.c
+	<stdio.h>
+	<stdlib.h>
+	"a.h"
+
+1529469035 d:\poli\taller de programacion\batalla naval\a.h
+
+1529471368 source:c:\users\tomás\desktop\batalla naval\main.c
+	<stdio.h>
+	<stdlib.h>
+	"a.h"
+
+1529469035 c:\users\tomás\desktop\batalla naval\a.h
+

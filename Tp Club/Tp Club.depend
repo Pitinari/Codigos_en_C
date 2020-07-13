@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1524021673 source:c:\users\tomas\desktop\tp club\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"func.h"
+
+1524021152 c:\users\tomas\desktop\tp club\func.h
+
+1524189075 source:c:\todo\tp club\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"func.h"
+
+1524189426 c:\todo\tp club\func.h
+
+1524235154 source:c:\users\nac\desktop\tp club\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	"func.h"
+
+1524227413 c:\users\nac\desktop\tp club\func.h
+
+1524311472 source:c:\users\tomás\desktop\tp club\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	"func.h"
+
+1524311472 c:\users\tomás\desktop\tp club\func.h
+
